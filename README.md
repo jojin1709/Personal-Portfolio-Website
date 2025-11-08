@@ -40,7 +40,7 @@ README.md
 ## 🖥 How to Run Locally
 1. Clone the repository:  
    ```bash
-  git clone https://github.com/jojin1709/Personal-Portfolio-Website.git
+   git clone https://github.com/jojin1709/Personal-Portfolio-Website.git
 
 Navigate to the project folder:
 
