@@ -1,56 +1,73 @@
-# Personal-Portfolio-Website
-A modern portfolio website showcasing my work, designed from scratch with clean UI/UX and responsive layouts.
+# Welcome to your Lovable project
 
+## Project info
 
+**URL**: https://lovable.dev/projects/4e800b63-d1bc-43ee-8989-f0b77ac9727e
 
+## How can I edit this code?
 
+There are several ways of editing your application.
 
+**Use Lovable**
 
-# 🌐 Personal-Portfolio-Website
+Simply visit the [Lovable Project](https://lovable.dev/projects/4e800b63-d1bc-43ee-8989-f0b77ac9727e) and start prompting.
 
-A modern and responsive portfolio website built from scratch to showcase my work, skills, and projects. Designed with a clean UI/UX, smooth animations, and optimized performance.
+Changes made via Lovable will be committed automatically to this repo.
 
-## ✨ Features
-- ✅ Fully responsive design for mobile, tablet, and desktop  
-- 🎨 Clean, modern, and minimal UI/UX  
-- 🚀 Fast loading and optimized assets  
-- 🧩 Modular sections (Home, About, Skills, Projects, Contact)  
-- 🔄 Smooth animations & transitions  
-- 🌙 Optional Dark/Light mode compatible  
-- 📁 Easy to customize and extend  
-- 🧪 Well-structured and clean code  
-- 🔍 SEO-friendly meta tags  
-- 📬 Integrated contact options (email/social)  
+**Use your preferred IDE**
 
-## 🛠 Tech Stack
-- **HTML5**  
-- **CSS3 / Tailwind / Custom CSS**  
-- **JavaScript (Vanilla)**  
-- **Netlify / Vercel / GitHub Pages** for hosting  
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## 📚 Folder Structure
-/assets
-/images
-/css
-/js
-index.html
-README.md
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
+Follow these steps:
 
-## 🖥 How to Run Locally
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/jojin1709/Personal-Portfolio-Website.git
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-Navigate to the project folder:
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-cd Personal-Portfolio-Website
+# Step 3: Install the necessary dependencies.
+npm i
 
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-Open the index.html file in your browser.
+**Edit a file directly in GitHub**
 
-🚀 Deployment
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-Deploy easily using Netlify, Vercel, or GitHub Pages
+**Use GitHub Codespaces**
 
-Ensure correct relative paths after uploading
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/4e800b63-d1bc-43ee-8989-f0b77ac9727e) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
